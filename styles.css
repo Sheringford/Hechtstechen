@@ -140,7 +140,7 @@ img {
     margin-bottom:37px;
 }
 
-#extra {
+extra {
     padding: 25px;
     border-radius: 8px;
 }
@@ -250,3 +250,4 @@ a.button:hover {
     }
 
 }
+
