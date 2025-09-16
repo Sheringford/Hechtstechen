@@ -140,11 +140,6 @@ img {
     margin-bottom:37px;
 }
 
-extra {
-    padding: 25px;
-    border-radius: 8px;
-}
-
 h1, h2 {
     text-align: center;
     font-weight: 400;
@@ -250,4 +245,5 @@ a.button:hover {
     }
 
 }
+
 
